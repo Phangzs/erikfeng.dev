@@ -33,7 +33,7 @@ name = "instagram"
 url = "https://instagram.com/erikkfeng"
 
 [[params.social]]
-name = "email"
+name = "mail"
 url = "https://buttondown.com/erikfeng"
 
 # Menu
