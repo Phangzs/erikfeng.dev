@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "db4010c98df0f10b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ed2220b7673fe7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe5e0b0d87ffac19",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d408ace3e4c27d85",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b7a9a4ece8db8d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d1d839fc4ca2604",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "da2b74d80229d096",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a413b6a8ccc2ec8d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3508e0904be1da8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "43cd59e4b0b1f014",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c79c5ecbe1d3eac5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "On Growing into a Song - Treacherous/On Growing into a Song - Treacherous (public verison).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for On Growing into a Song - Treacherous (public verison)"
+            }
+          },
+          {
+            "id": "a3a0cb09d988671a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "On Growing into a Song - Treacherous/On Growing into a Song - Treacherous (public verison).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from On Growing into a Song - Treacherous (public verison)"
+            }
+          },
+          {
+            "id": "b560b834d59b2cd8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b0e672344b696de2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "df9ef632d2c0d5db",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "On Growing into a Song - Treacherous/On Growing into a Song - Treacherous (public verison).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of On Growing into a Song - Treacherous (public verison)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "fe5e0b0d87ffac19",
+  "lastOpenFiles": [
+    "On Growing into a Song - Treacherous (public verison).md",
+    "erikfeng-dev-setup-guide.md",
+    "Private/On Growing into a Song - Treacherous (private version).md",
+    "Full/On Growing into a Song - Treacherous.md",
+    "Full",
+    "Private",
+    "Public",
+    "Welcome.md",
+    "On Growing into a Song - Treacherous"
+  ]
+}

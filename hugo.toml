@@ -1,0 +1,56 @@
+baseURL = "https://erikfeng.dev/"
+languageCode = "en"
+title = "Erik Feng"
+theme = "typo"
+
+[params]
+# Collection to display on home page
+homeCollectionTitle = "Essays"
+homeCollection = "essays"
+
+# Lists
+paginationSize = 20
+listSummaries = false
+listDateFormat = "2 Jan 2006"
+
+# Breadcrumbs
+[params.breadcrumbs]
+enabled = true
+showCurrentPage = true
+home = "Home"
+
+# Social icons
+[[params.social]]
+name = "linkedin"
+url = "https://linkedin.com/in/erikfeng"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/Phangzs"
+
+[[params.social]]
+name = "instagram"
+url = "https://instagram.com/erikkfeng"
+
+# If/when you set up Buttondown:
+# [[params.social]]
+# name = "email"
+# url = "https://buttondown.com/erikfeng"
+
+# Menu
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "essays"
+url = "/essays"
+
+[[params.menu]]
+name = "about"
+url = "/about"
+
+# Syntax highlighting (if you ever write code posts)
+[markup]
+[markup.highlight]
+style = "algol"
