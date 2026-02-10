@@ -32,7 +32,6 @@ url = "https://github.com/Phangzs"
 name = "instagram"
 url = "https://instagram.com/erikkfeng"
 
-# If/when you set up Buttondown:
 [[params.social]]
 name = "email"
 url = "https://buttondown.com/erikfeng"
